@@ -1,4 +1,4 @@
-#include <Wire.h> //standrad library for I2C communication
+#include <Wire.h> //standard library for I2C communication
 #include <SevSeg.h>
 
 SevSeg sevseg; //object sevseg is created
